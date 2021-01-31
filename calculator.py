@@ -4,7 +4,7 @@ root = Tk()
 root.title("calculator")
 root.geometry('280x430')
 root.resizable(width=0, height=0)
-root.iconbitmap('C:/Users/HP/Desktop/tkintercalc/calc.ico')
+root.iconbitmap('calc.ico')
 
 root.iconbitmap()
 e = Entry(root, width=35, borderwidth=5)
